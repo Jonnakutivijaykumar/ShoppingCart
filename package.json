@@ -7,8 +7,10 @@
     "web": "expo start --web",
     "start": "react-native start",
     "test": "jest",
-    "predeploy": "npm run build", 
-    "deploy": "gh-pages -d build" 
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "expo": "~40.0.0",
