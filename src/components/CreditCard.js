@@ -42,6 +42,7 @@ const CreditCard = () => {
                 errored: '#fff',
                 regular: '#B9C4CA',
               }}
+              autoFocus={false}
             overrides={{
                 errorText:{
                     color:'#fff'

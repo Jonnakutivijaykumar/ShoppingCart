@@ -83,8 +83,14 @@ export default class ShoppingCart extends Component {
                           alignContent: "center",
                         }}
                       >
-                        <Text style={{ fontWeight: "bold" }}>{u.name}</Text>
-                        <Text style={{ fontSize: 9 }}>{u.code}</Text>
+                        <Text
+                          style={{ fontWeight: "bold", fontFamily: "Roboto" }}
+                        >
+                          {u.name}
+                        </Text>
+                        <Text style={{ fontSize: 9, fontFamily: "Roboto" }}>
+                          {u.code}
+                        </Text>
                       </View>
                       {/* quantity */}
                       <View style={{ flex: 1, justifyContent: "center" }}>
@@ -151,6 +157,7 @@ export default class ShoppingCart extends Component {
                     color: "#4781db",
                     alignSelf: "flex-start",
                     fontWeight: "bold",
+                    fontFamily: "Roboto",
                   }}
                 >
                   Continue Shopping
@@ -162,6 +169,7 @@ export default class ShoppingCart extends Component {
                     alignSelf: "flex-end",
                     fontWeight: "bold",
                     color: "gray",
+                    fontFamily: "Roboto",
                   }}
                 >
                   Subtotal: {""}
@@ -177,7 +185,13 @@ export default class ShoppingCart extends Component {
         </View>
         <View style={{ flex: 1.5 }}>
           <Card containerStyle={{ backgroundColor: "#404049" }}>
-            <Card.Title style={{ alignSelf: "flex-start", color: "white" }}>
+            <Card.Title
+              style={{
+                alignSelf: "flex-start",
+                color: "white",
+                fontFamily: "Roboto",
+              }}
+            >
               Card Details
             </Card.Title>
             <View
@@ -187,7 +201,15 @@ export default class ShoppingCart extends Component {
                 alignContent: "center",
               }}
             >
-              <Text style={{ fontSize: 9, color: "#393a4030" }}>Card Type</Text>
+              <Text
+                style={{
+                  fontSize: 9,
+                  color: "#393a4030",
+                  fontFamily: "Roboto",
+                }}
+              >
+                Card Type
+              </Text>
               <CreditCard />
             </View>
           </Card>
