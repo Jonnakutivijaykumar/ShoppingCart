@@ -2,6 +2,8 @@
 This is a very basic react native web application. <br>
 I have used react native managed by expo and redux <br>
 
+You can see the live demo: https://Jonnakutivijaykumar.github.io/ShoppingCart/ <br>
+
 ## Follow the below procedure to run the application
 ### Download the source code and extract it.
 ### Open with any code editor - VS code is preferrable.
