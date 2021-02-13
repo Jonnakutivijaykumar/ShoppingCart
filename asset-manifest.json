@@ -1,0 +1,41 @@
+{
+  "files": {
+    "app.js": "/ShoppingCart/static/js/app.37b4b2b1.chunk.js",
+    "app.js.map": "/ShoppingCart/static/js/app.37b4b2b1.chunk.js.map",
+    "runtime~app.js": "/ShoppingCart/static/js/runtime~app.1cdd314d.js",
+    "runtime~app.js.map": "/ShoppingCart/static/js/runtime~app.1cdd314d.js.map",
+    "static/js/2.5c373ac6.chunk.js": "/ShoppingCart/static/js/2.5c373ac6.chunk.js",
+    "static/js/2.5c373ac6.chunk.js.map": "/ShoppingCart/static/js/2.5c373ac6.chunk.js.map",
+    "fonts/AntDesign.ttf": "/ShoppingCart/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/ShoppingCart/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/ShoppingCart/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/ShoppingCart/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/ShoppingCart/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/ShoppingCart/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/ShoppingCart/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/ShoppingCart/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/ShoppingCart/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/ShoppingCart/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/ShoppingCart/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/ShoppingCart/./fonts/SimpleLineIcons.ttf",
+    "index.html": "/ShoppingCart/index.html",
+    "manifest.json": "/ShoppingCart/manifest.json",
+    "serve.json": "/ShoppingCart/serve.json",
+    "static/js/2.5c373ac6.chunk.js.LICENSE.txt": "/ShoppingCart/static/js/2.5c373ac6.chunk.js.LICENSE.txt",
+    "static/media/amex.png": "/ShoppingCart/static/media/amex.d915db15.png",
+    "static/media/background.png": "/ShoppingCart/static/media/background.d6bb39c6.png",
+    "static/media/bell.png": "/ShoppingCart/static/media/bell.cf04af27.png",
+    "static/media/discover.png": "/ShoppingCart/static/media/discover.0ba919e4.png",
+    "static/media/heart.png": "/ShoppingCart/static/media/heart.23b5c2c0.png",
+    "static/media/mastercard.png": "/ShoppingCart/static/media/mastercard.97a6c69b.png",
+    "static/media/rocket.png": "/ShoppingCart/static/media/rocket.d2f3bf41.png",
+    "static/media/star.png": "/ShoppingCart/static/media/star.69c71386.png",
+    "static/media/tape.png": "/ShoppingCart/static/media/tape.61157f0d.png",
+    "static/media/visa.png": "/ShoppingCart/static/media/visa.ebbdae20.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.1cdd314d.js",
+    "static/js/2.5c373ac6.chunk.js",
+    "static/js/app.37b4b2b1.chunk.js"
+  ]
+}
